@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="40%"  height="auto" src="./profile%20svg.png" height="175px"/></a></P>
+<a href="#"><img width="30%"  height="auto" src="./profile%20svg.png" height="175px"/></a></P>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arfin foysal</h1>
 <h3 align="center">Software Engineer.</h3>
