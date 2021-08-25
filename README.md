@@ -44,12 +44,14 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arfin-foysal&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 
 
 <p align="center">
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arfin-foysal&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
 ## 📊 My Github Stats
@@ -63,10 +65,16 @@
 
 <br/>
 <br/>
+![](https://komarev.com/ghpvc/?arfinfoysal=your-github-arfin-foysal)
 
-<a href="https://github.com/arfin-foysal/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arfin-foysal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+
+[![arfin foysals's github activity graph](https://activity-graph.herokuapp.com/graph?username=arfin-foysal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 <br/>
 
 ## Connect with me:
@@ -83,5 +91,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/arfin-foysal?tab=followers"><img src="https://img.shields.io/github/followers/arfin-foysal?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://github.com/arfin-foysal?tab=followers"><img src="https://img.shields.io/github/followers/arfin-foysal?label=Followers&style=social" alt="GitHub Badge"></a> -->
 <!--  -->
