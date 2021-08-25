@@ -37,6 +37,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
     <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
     
     
 </p>
@@ -72,7 +73,7 @@
 <!--  -->
 
 
-
+<!--  -->
 <br/>
 
 ## Connect with me:
@@ -82,6 +83,7 @@
 <a href = "https://twitter.com/arfinfoysalbd"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/arfinfoysalbd/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/arfinfoysalbd"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://stackoverflow.com/users/14008024/arfin-foysal"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 
 </p>
 
