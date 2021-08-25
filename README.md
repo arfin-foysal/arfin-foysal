@@ -39,6 +39,7 @@
     <a href="https://npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
     <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
+    <a href="https://wordpress.org/" target="_blank"><img src="https://img.icons8.com/color/50/000000/wordpress.png"/></a> 
     
     
 </p>
