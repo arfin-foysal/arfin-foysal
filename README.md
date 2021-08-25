@@ -44,10 +44,15 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+
  
 <p align="center">
     <a href="https://github.com/arfin-foysal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arfin fdoysal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arfin-foysal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<<<<<<< HEAD
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arfin foysal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arfin-foysal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+=======
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arfin foysal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arfin-foysaltheme=gruvbox&hide_border=true"/>
+>>>>>>> f3fac79256893237b5dbbb67b46e982b9b75f482
     </a>
 </p>
 
@@ -89,4 +94,9 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=arfin-foysal">
 </a>
+<<<<<<< HEAD
 <a href="https://github.com/arfin-foysal?tab=followers"><img src="https://img.shields.io/github/followers/arfin-foysal?label=Followers&style=social" alt="GitHub Badge"></a>
+=======
+<!-- <a href="https://github.com/arfin-foysal?tab=followers"><img src="https://img.shields.io/github/followers/arfin-foysal?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<!--  -->
+>>>>>>> f3fac79256893237b5dbbb67b46e982b9b75f482
