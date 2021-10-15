@@ -54,11 +54,13 @@
 </p>
 
 ## 📊 My Github Stats
-   <br>
-  <a href="https://github.com/arfin-foysal/"><img alt="arfin foysal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfin-foysal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+ 
   <br/>
     <p align="center">
+      <br>
+  <a href="https://github.com/arfin-foysal/"><img alt="arfin foysal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfin-foysal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+    <br/>
     <a href="https://github.com/arfin-foysal"><img alt="arfin foysal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arfin-foysal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</P>
