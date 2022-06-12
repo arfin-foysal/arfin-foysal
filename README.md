@@ -30,8 +30,8 @@
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/dusk/64/undefined/php-logo.png"/> </a> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/dusk/48/undefined/php-logo.png"/> </a> 
     <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/laravel.png"/> </a> 
      <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
