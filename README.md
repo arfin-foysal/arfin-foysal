@@ -40,7 +40,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
  
     
