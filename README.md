@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN Stack Web Developnent**
+- 🔭 I’m currently working on **Laravel, Node Js, React Js Application Developnent**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
