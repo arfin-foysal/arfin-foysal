@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
 <a href="#"><img width="30%"  height="auto" src="./pro.png" height="175px"/></a></P>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arfin foysal</h1>
@@ -89,7 +89,7 @@ href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zon
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/arfin-foysal/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=arfin-foysal">
 </a>
 <a href="https://github.com/arfin-foysal?tab=followers"><img src="https://img.shields.io/github/followers/arfin-foysal?label=Followers&style=social" alt="GitHub Badge"></a>
