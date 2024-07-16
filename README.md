@@ -89,7 +89,7 @@ href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zon
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/arfin-foysal/github-profile-views-counter">
+<a href="https://github.com/arfin-foysal">
     <img src="https://komarev.com/ghpvc/?username=arfin-foysal">
 </a>
 <a href="https://github.com/arfin-foysal?tab=followers"><img src="https://img.shields.io/github/followers/arfin-foysal?label=Followers&style=social" alt="GitHub Badge"></a>
