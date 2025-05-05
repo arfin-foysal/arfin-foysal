@@ -45,6 +45,9 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   </a>
