@@ -1,7 +1,7 @@
  <p align="center">
 <a href="#"><img width="30%"  height="auto" src="./pro.png" height="175px"/></a></P>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arfin foysal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Foysal Ahmad</h1>
 <h3 align="center">Software Engineer.</h3>
 
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://arfinfoysal.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://arfin-foysal.github.io/dev/)**
 
 - 📫 How to reach me **af.arfinfoysal@gmail.com**
 
