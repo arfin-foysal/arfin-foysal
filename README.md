@@ -25,7 +25,7 @@
    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/laravel.png"/> </a> 
      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
-     <a href="https://go.dev" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/></a> 
+     
    
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
        <a href="https://typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/> </a> 
