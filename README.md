@@ -20,32 +20,66 @@
 - ⚡ Fun fact **I play cricket**
 
 ## 🚀 Languages and Tools:
-  <p align="left"> 
-   <a href="https://php.net" target="_blank"> <img src="https://img.icons8.com/dusk/48/undefined/php-logo.png"/> </a> 
-   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/laravel.png"/> </a> 
-     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
-     
-   
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-       <a href="https://typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/> </a> 
-     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-     <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
-    <a 
-href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
- 
-    
-    
+<p align="left">
+  <a href="https://php.net" target="_blank">
+    <img src="https://img.icons8.com/dusk/48/php-logo.png" alt="PHP" />
+  </a>
+  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  </a>
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60" />
+  </a>
+  <a href="https://go.dev" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="Golang" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  </a>
+  <a href="https://typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="TypeScript" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  </a>
+  <a href="https://www.iso.org/standard/74528.html" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" />
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  </a>
+  <a href="https://npmjs.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+  </a>
 </p>
+
 
 
 <br/>
